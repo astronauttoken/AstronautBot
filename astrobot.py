@@ -4,7 +4,7 @@
 # type: ignore[union-attr]
 
 ## Use your own token that @BotFather gave you (DO NOT SHARE IT WITH ANYONE AS THEY WILL BE ABLE TO CONTROL THE BOT)
-TOKEN = ''
+TOKEN = '1727415079:AAHj6mS3ke7_5nb2aLPgN9pdCziz9K00Jb4'
 
 # Libraries for random numbers and image processing
 from PIL import Image, ImageFont,ImageDraw , ImageChops
