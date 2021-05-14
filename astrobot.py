@@ -98,7 +98,7 @@ def main():
     dispatcher.add_handler(CommandHandler("start", start))
     dispatcher.add_handler(CommandHandler("help", help_command))
     dispatcher.add_handler(CommandHandler("card", card))
-    dispatcher.add_handler(CommandHandler("price", price))
+    #dispatcher.add_handler(CommandHandler("price", price))
     dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command, echo))
     updater.start_polling()
     updater.idle()
