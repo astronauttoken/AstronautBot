@@ -4,12 +4,12 @@
 # type: ignore[union-attr]
 
 ## Use your own token that @BotFather gave you (DO NOT SHARE IT WITH ANYONE AS THEY WILL BE ABLE TO CONTROL THE BOT)
-TOKEN = '1727415079:AAHj6mS3ke7_5nb2aLPgN9pdCziz9K00Jb4'
+TOKEN = '1776950480:AAFI8tsP4ozn7AVYldjojGEHYvMbHenmV7s'
 CARD = 'AstroBingoCard.png'
 FONT = 'ARIAL.TTF'
 FONTSIZE_NUMBER = 24
 FONTSIZE_USERNAME = 32
-HEROKU_APPNAME = 'https://astrobottest.herokuapp.com/'
+HEROKU_APPNAME = 'https://astronautbingobot.herokuapp.com/'
 
 # Libraries for random numbers and image processing
 from PIL import Image, ImageFont,ImageDraw , ImageChops
